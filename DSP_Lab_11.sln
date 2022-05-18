@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSP_Lab_11", "DSP_Lab_11.csproj", "{AC81C6EB-7021-40D5-A050-567F6F0A568C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC81C6EB-7021-40D5-A050-567F6F0A568C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC81C6EB-7021-40D5-A050-567F6F0A568C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC81C6EB-7021-40D5-A050-567F6F0A568C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC81C6EB-7021-40D5-A050-567F6F0A568C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DBCC102-CBDF-4574-B728-B69D2ABB9F2F}
+	EndGlobalSection
+EndGlobal

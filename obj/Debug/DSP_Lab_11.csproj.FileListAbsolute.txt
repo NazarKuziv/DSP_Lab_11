@@ -1,0 +1,8 @@
+D:\ddpu\ПДС\Лаб\DSP_Lab_11\bin\Debug\DSP_Lab_11.exe.config
+D:\ddpu\ПДС\Лаб\DSP_Lab_11\bin\Debug\DSP_Lab_11.exe
+D:\ddpu\ПДС\Лаб\DSP_Lab_11\bin\Debug\DSP_Lab_11.pdb
+D:\ddpu\ПДС\Лаб\DSP_Lab_11\obj\Debug\DSP_Lab_11.csproj.AssemblyReference.cache
+D:\ddpu\ПДС\Лаб\DSP_Lab_11\obj\Debug\DSP_Lab_11.csproj.SuggestedBindingRedirects.cache
+D:\ddpu\ПДС\Лаб\DSP_Lab_11\obj\Debug\DSP_Lab_11.csproj.CoreCompileInputs.cache
+D:\ddpu\ПДС\Лаб\DSP_Lab_11\obj\Debug\DSP_Lab_11.exe
+D:\ddpu\ПДС\Лаб\DSP_Lab_11\obj\Debug\DSP_Lab_11.pdb
