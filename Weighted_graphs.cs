@@ -10,6 +10,7 @@ namespace DSP_Lab_11
         public int GetM() { return this.m; }
         public int GetN() { return this.n; }
         public int[,] GetMatrix() { return this.matrix; }
+      
 
         int infinite = int.MaxValue;
         public int[,] CreateMatrix(FileViewer file, int[,] graf)
@@ -54,7 +55,7 @@ namespace DSP_Lab_11
                     }
                 }
             }
-            this.matrix = graf;
+            this.matrix = graf;   
             return matrix;
         }
         public int[] OrderN(int n)
@@ -66,6 +67,7 @@ namespace DSP_Lab_11
             }
             return order;
         }
+       
         public void printMatrix(int[,] matrix, FileViewer file)
         {
             Console.Write("   |");

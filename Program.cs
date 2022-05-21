@@ -15,11 +15,10 @@ namespace DSP_Lab_11
             FileViewer file = new FileViewer();
             int[,] graf = file.ReadFile();
             Weighted_graphs WeightedGra = new Weighted_graphs();
-            int[,] Grapf = WeightedGra.CreateMatrix(file, graf);
-            Console.WriteLine("Алгоритм Флойда-Уоршелла:");
+            int[,] Grapf = WeightedGra.CreateMatrix(file, graf);       
+            Console.WriteLine("Алгоритм Флойда-Уоршелла:");    
 
-
-            Floyd_Warshall_Algorithm FWA = new Floyd_Warshall_Algorithm(WeightedGra,Grapf);
+            Floyd_Warshall_Algorithm FWA = new Floyd_Warshall_Algorithm(Grapf,WeightedGra);
 
         }
     }
